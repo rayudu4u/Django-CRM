@@ -1,6 +1,6 @@
 # Environment variables
 
-SECRET_KEY=""
+SECRET_KEY="kch4893fu%^DFY(*U(*"
 ENV_TYPE="dev"
 DOMAIN_NAME=""
 
